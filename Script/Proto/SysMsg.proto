@@ -1,0 +1,7 @@
+﻿    message MsgPing{
+
+    }
+
+    message MsgPong{
+
+    }
